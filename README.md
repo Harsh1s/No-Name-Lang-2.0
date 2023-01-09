@@ -1,4 +1,4 @@
-No Name Lang 2.0 Functions
+# No Name Lang 2.0 Functions
 
 
 dec -> auto declare variable
