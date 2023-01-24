@@ -59,3 +59,7 @@ Functions:
                     type
 
 
+Demo Images (use arguement c to compile and nc to transpile):
+![DocScanner 09-Jan-2023 12-13 pm_3](https://user-images.githubusercontent.com/53043454/214264484-9bb3e824-84e1-469f-877c-25580e579392.jpg)
+![DocScanner 09-Jan-2023 12-13 pm_4](https://user-images.githubusercontent.com/53043454/214264502-caec7a9c-e3ec-4896-a478-f939d832b74d.jpg)
+
